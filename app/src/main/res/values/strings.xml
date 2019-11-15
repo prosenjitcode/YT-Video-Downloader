@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YT Video Downloder</string>
+    <string name="image_view">thumb</string>
+    <string name="search">Search</string>
+</resources>
